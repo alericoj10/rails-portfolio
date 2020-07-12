@@ -58,3 +58,5 @@ gem 'friendly_id', '~> 5.2.4'
 gem 'devise', '~> 4.7', '>= 4.7.2'
 gem 'bootstrap', '~> 4.5.0'
 gem 'jquery-rails'
+
+gem 'arico_view_tool', git: 'https://github.com/alericoj10/arico_view_tool'

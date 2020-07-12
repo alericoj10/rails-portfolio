@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/alericoj10/arico_view_tool
+  revision: 7503e0f47992d7700cf9423fe851845af0dc3650
+  specs:
+    arico_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -206,6 +212,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  arico_view_tool!
   bootsnap (>= 1.1.0)
   bootstrap (~> 4.5.0)
   byebug
