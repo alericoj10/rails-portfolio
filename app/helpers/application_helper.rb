@@ -15,4 +15,8 @@ module ApplicationHelper
             content_tag(:p, greeting, class: 'source-helper')
         end
     end
+
+    def copyright_generator
+        ARicoViewTool::Renderer.copyright 'Alejandro Rico', 'Todos los derechos reservados.'
+    end
 end
