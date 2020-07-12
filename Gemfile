@@ -60,3 +60,4 @@ gem 'bootstrap', '~> 4.5.0'
 gem 'jquery-rails'
 
 gem 'arico_view_tool', git: 'https://github.com/alericoj10/arico_view_tool'
+gem 'petergate', '~> 2.0', '>= 2.0.1'
